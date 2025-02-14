@@ -195,7 +195,7 @@ export default defineComponent({
     &-inner {
       display: flex;
       justify-content: flex-start;
-      width: var(--header-width, 77.5rem);
+      width: var(--header-width, 77.6rem);
     }
   }
 
